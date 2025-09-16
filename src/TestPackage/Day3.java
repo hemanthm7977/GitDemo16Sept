@@ -46,6 +46,8 @@ public class Day3 {
 	@Test(groups = "Smoke")
 	public void Day3Smoke() {
 		System.out.println("Smoke Test - Day 3");
+		System.out.println("Smoke Test - Day 3 -Git Stuff");
+		System.out.println("Smoke Test - Day 3 -Git Stuff11");
 	}
 
 	@Parameters({ "URL" })

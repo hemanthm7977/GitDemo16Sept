@@ -29,6 +29,9 @@ public class Day4 {
 		System.out.println("Smoke Test - Day 4 -Git Stuff");
 		System.out.println("Smoke Test - Day 4 -Git Stuff11");
 		
+		
+		System.out.println("Smoke Test - Day 4 -Git Demo but develop");
+		
 
 	}
 }

@@ -23,5 +23,8 @@ public class Day4 {
 	@Test(groups="Smoke")
 	public void Day4Smoke() {
 		System.out.println("Smoke Test - Day 4");
+		System.out.println("Smoke Test - Day 4 -Git Demo");
+		System.out.println("Smoke Test - Day 4 -Git Demo11");
+
 	}
 }
